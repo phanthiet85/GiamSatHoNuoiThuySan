@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "403297483405",
+    "firebase_url": "https://ho-thuy-san-database-9e16a-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "ho-thuy-san-database-9e16a",
+    "storage_bucket": "ho-thuy-san-database-9e16a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403297483405:android:2086042cdcc71bb76480c4",
+        "android_client_info": {
+          "package_name": "com.example.appgiamsatchatluongnuoc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "403297483405-u9mbah7r82k1n5f2f599pba9ksrn1jon.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnLgfS0EtfsWBEHXInJthZHpF5JoaMh5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "403297483405-u9mbah7r82k1n5f2f599pba9ksrn1jon.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
